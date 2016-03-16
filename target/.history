@@ -1,0 +1,4 @@
+Program.run()
+exit
+scala Program
+exit
